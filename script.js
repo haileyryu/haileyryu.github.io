@@ -1,6 +1,8 @@
 function start(){
 
    // $("body").css("background-color", "pink");
+    $("#memu a:first").click();
+
 
 }
 
